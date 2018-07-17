@@ -1,6 +1,6 @@
 osCommerce Community Edition
 ============================
-
+Updated reAD ME FILE 
 osCommerce 2.3.4.1 with Bootstrap.  This is an ongoing COMMUNITY effort.  
 
 You can choose to download;
